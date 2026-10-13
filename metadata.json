@@ -1,0 +1,6 @@
+{
+  "name": "InstaVibe - Social Media & Reels",
+  "description": "An Instagram-inspired social media platform with photos, reels, stories, real-time messaging, and interactive friend feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
